@@ -1,3 +1,3 @@
 <?php 
- echo "hi 1";
+ echo "hi";
 ?>
